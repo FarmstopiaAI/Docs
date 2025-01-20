@@ -9,3 +9,4 @@
 * [Crafting](content/crafting.md)
 * [Cooking](content/cooking.md)
 * [Farming](content/farming.md)
+* [Hunting](content/hunting.md)
