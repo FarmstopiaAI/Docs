@@ -11,3 +11,4 @@
 * [Farming](content/farming.md)
 * [Hunting](content/hunting.md)
 * [Fishing](content/fishing.md)
+* [Pets](content/pets.md)
