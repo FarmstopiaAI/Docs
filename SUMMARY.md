@@ -8,3 +8,4 @@
 * [Life Attribute](content/life-attribute.md)
 * [Crafting](content/crafting.md)
 * [Cooking](content/cooking.md)
+* [Farming](content/farming.md)
