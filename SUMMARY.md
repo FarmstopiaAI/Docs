@@ -14,3 +14,7 @@
 * [Pets](content/pets.md)
 * [Mining](content/mining.md)
 * [Building](content/building.md)
+
+***
+
+* [Solutions](solutions.md)
