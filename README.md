@@ -30,6 +30,6 @@ The challenge has begun, warriors, are you ready?
 
 ## Videos
 
+{% embed url="https://drive.google.com/file/d/1asRyQnZFT0autGp04Zwh7ZEA6C_O1Vlo/view?usp=sharing" %}
 
-
-{% embed url="https://drive.google.com/file/d/1EUPmlFrLi2R7dJGB0POj9CBaHSZi35eI/view?usp=sharing" %}
+## Links
