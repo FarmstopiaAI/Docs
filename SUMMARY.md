@@ -17,5 +17,6 @@
 
 ***
 
+* [Roadmap](roadmap.md)
 * [Solutions](solutions.md)
 * [Terms of Service](terms-of-service.md)
