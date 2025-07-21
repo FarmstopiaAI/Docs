@@ -1,13 +1,13 @@
 ---
-icon: bullseye-arrow
 description: AI Agent Technologies and Implementation - Wildcraft + AI
+icon: bullseye-arrow
 ---
 
 # AI Agent
 
 <figure><img src="../.gitbook/assets/world.webp" alt=""><figcaption></figcaption></figure>
 
-In **Wildcraft + AI**, AI agents are the driving force behind the game world, dynamically generating environments, managing biological behaviors, and interacting with players. By leveraging advanced AI technologies, the game offers an immersive and adaptive experience. Below are the key technologies and methods used to implement these AI agents:
+In **farmstopia + AI**, AI agents are the driving force behind the game world, dynamically generating environments, managing biological behaviors, and interacting with players. By leveraging advanced AI technologies, the game offers an immersive and adaptive experience. Below are the key technologies and methods used to implement these AI agents:
 
 ### &#x20;
 
