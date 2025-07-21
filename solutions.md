@@ -1,5 +1,5 @@
 ---
-description: Wildcraft + AI Solution Overview
+description: farmstopia + AI Solution Overview
 ---
 
 # Solutions

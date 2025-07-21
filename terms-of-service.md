@@ -1,5 +1,5 @@
 ---
-description: Wildcraft + AI Services Agreement, Terms of Service, and Privacy Policy
+description: farmstopia + AI Services Agreement, Terms of Service, and Privacy Policy
 ---
 
 # Terms of Service
