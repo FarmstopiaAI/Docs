@@ -2,7 +2,7 @@
 
 Wildcraft is an AI-driven survival simulation game where players must navigate a world controlled by AI Agents. The ecosystem includes animals, plants, and minerals, creating a dynamic environment where survival depends on managing hunger, fatigue, thirst, and shelter. Below is the development roadmap outlining key milestones and future expansions.
 
-### **📌 Phase 1: Core System Development (Q1 2025 )**
+### **📌 Phase 1: Core System Development (Q3 2025 )**
 
 ✅ **Survival Mechanics** – Implement hunger, thirst, fatigue, and energy systems to create realistic survival challenges.\
 ✅ **Resource Gathering & Crafting** – Enable players to collect wood, minerals, and food to craft essential survival tools.\
@@ -12,7 +12,7 @@ Wildcraft is an AI-driven survival simulation game where players must navigate a
 
 ***
 
-### **🚀 Phase 2: AI Interaction & World Expansion (Q2 2025 )**
+### **🚀 Phase 2: AI Interaction & World Expansion (Q4 2025 )**
 
 🔄 **Intelligent NPC Companions** – AI-controlled companions assist players in hunting, farming, and building.\
 🌍 **Dynamic Weather & Day/Night Cycle** – Weather patterns impact survival, affecting crops and player conditions.\
@@ -22,7 +22,7 @@ Wildcraft is an AI-driven survival simulation game where players must navigate a
 
 ***
 
-### **🌿 Phase 3: Multiplayer & Evolving Ecosystem (Q3 2025)**
+### **🌿 Phase 3: Multiplayer & Evolving Ecosystem (Q1 2026)**
 
 👥 **Multiplayer Mode** – Enable cooperative survival where players can form teams and share resources.\
 🐾 **AI-Driven Wildlife Evolution** – Wild animals adapt to player behavior, developing unique survival strategies.\
@@ -31,7 +31,7 @@ Wildcraft is an AI-driven survival simulation game where players must navigate a
 
 ***
 
-### **🏹 Phase 4: Immersive Gameplay Enhancements (Q4 2025)**
+### **🏹 Phase 4: Immersive Gameplay Enhancements (Q2 2026)**
 
 🏛 **AI-Powered Settlements** – Discover AI-generated villages where NPCs offer quests and trade opportunities.\
 🧩 **Adaptive AI Evolution** – AI agents learn from player actions and modify their behaviors accordingly.\
@@ -40,7 +40,7 @@ Wildcraft is an AI-driven survival simulation game where players must navigate a
 
 ***
 
-### **🌎 Long-Term Vision: The Wildcraft Ecosystem (Beyond 2025)**
+### **🌎 Long-Term Vision: The Wildcraft Ecosystem (Beyond 2026)**
 
 💡 **Self-Learning AI Agents** – AI evolves based on player decisions, personalizing interactions over time.\
 ⚔️ **PvP & Territory Battles** – Players can engage in large-scale AI-driven territorial conflicts.\
