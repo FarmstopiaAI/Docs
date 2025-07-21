@@ -2,25 +2,11 @@
 icon: hand-wave
 cover: .gitbook/assets/head.webp
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome
 
-Welcome to Wildcraft! In a world full of unknowns and challenges, everything is carefully created and managed by powerful AI agents. There is a rich ecosystem of creatures, plants and minerals for you to explore and utilize. Every resource is vital, and only by learning how to adapt and utilize them will you be able to survive in this harsh environment.
+Welcome to farmstopia! In a world full of unknowns and challenges, everything is carefully created and managed by powerful AI agents. There is a rich ecosystem of creatures, plants and minerals for you to explore and utilize. Every resource is vital, and only by learning how to adapt and utilize them will you be able to survive in this harsh environment.
 
 As an intrepid explorer, you will face real-life survival tests - you must cope with physiological needs such as hunger, thirst, fatigue and rest. You will need to hunt, gather, build, and fight constantly to coexist with this dynamic world and the creatures around you in a resource-poor and hostile environment.
 
