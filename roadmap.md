@@ -1,6 +1,6 @@
 # Roadmap
 
-Wildcraft is an AI-driven survival simulation game where players must navigate a world controlled by AI Agents. The ecosystem includes animals, plants, and minerals, creating a dynamic environment where survival depends on managing hunger, fatigue, thirst, and shelter. Below is the development roadmap outlining key milestones and future expansions.
+farmstopia is an AI-driven survival simulation game where players must navigate a world controlled by AI Agents. The ecosystem includes animals, plants, and minerals, creating a dynamic environment where survival depends on managing hunger, fatigue, thirst, and shelter. Below is the development roadmap outlining key milestones and future expansions.
 
 ### **📌 Phase 1: Core System Development (Q3 2025 )**
 
