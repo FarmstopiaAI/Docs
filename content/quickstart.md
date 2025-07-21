@@ -1,5 +1,5 @@
 ---
-description: AI Agent Technologies and Implementation - Wildcraft + AI
+description: AI Agent Technologies and Implementation - Farmstopia + AI
 icon: bullseye-arrow
 ---
 
