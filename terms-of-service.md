@@ -10,7 +10,7 @@ By accessing and using **Wildcraft + AI**, you agree to abide by the following *
 
 **1.1. Service Availability**
 
-* **Wildcraft + AI** provides an immersive survival game where AI agents manage the ecosystem and simulate various survival mechanics.
+* farmstopia **+ AI** provides an immersive survival game where AI agents manage the ecosystem and simulate various survival mechanics.
 * The game is available through the designated platforms (e.g., PC, mobile, consoles) and may require internet access for online multiplayer features.
 * We reserve the right to update, modify, or discontinue any services or features of the game at any time without prior notice.
 
@@ -22,7 +22,7 @@ By accessing and using **Wildcraft + AI**, you agree to abide by the following *
 
 **1.3. Updates and Maintenance**
 
-* **Wildcraft + AI** may periodically release updates to enhance gameplay, fix bugs, or add new features. These updates may occur automatically, and you agree to install these updates to continue using the service.
+* farmstopia **+ AI** may periodically release updates to enhance gameplay, fix bugs, or add new features. These updates may occur automatically, and you agree to install these updates to continue using the service.
 * Regular maintenance may be scheduled, during which certain game features or the entire game may be temporarily unavailable.
 
 **1.4. Intellectual Property**
@@ -48,12 +48,12 @@ By accessing and using the **Wildcraft + AI** game, you agree to comply with the
 
 **2.2. Game Content**
 
-* **Wildcraft + AI** includes various in-game content, such as characters, AI agents, resources, and features. These contents are owned by the game developer and are provided for your enjoyment.
+* farmstopia **+ AI** includes various in-game content, such as characters, AI agents, resources, and features. These contents are owned by the game developer and are provided for your enjoyment.
 * You agree not to redistribute, sell, or exploit the in-game content for commercial purposes without explicit permission from the developer.
 
 **2.3. In-App Purchases**
 
-* **Wildcraft + AI** may offer in-game purchases for cosmetic items, boosters, or other non-essential features.
+* farmstopia **+ AI** may offer in-game purchases for cosmetic items, boosters, or other non-essential features.
 * Any in-app purchases made are subject to the terms and conditions provided at the time of purchase. You are responsible for any charges incurred through your account.
 
 **2.4. User-Generated Content**
